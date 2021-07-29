@@ -6,7 +6,7 @@
 어떤 주제를 정하셨나요?
 테마는 단순한 가로 레이아웃을 적용하여 주세요. 아니면 직접 제작
 
-```markdown
+markdown
 마크다운으로 페이지 구성중
 
 # 🍱각조이름
@@ -21,8 +21,8 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](https://yunsugyoung.github.io/talk/) and ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
