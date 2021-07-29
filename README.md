@@ -25,7 +25,7 @@ markdown
 
 ![Image](https://cdn.pixabay.com/photo/2017/06/10/07/21/chat-2389223__340.png)
 
-![Image](https://github.com/jasun2021/sugoi/issues/1#issue-914268689)
+![Image](https://user-images.githubusercontent.com/88048130/127434889-6b59eb1d-34d5-41f1-a7c4-98d99f0e0a0e.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
