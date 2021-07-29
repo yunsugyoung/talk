@@ -25,7 +25,8 @@ markdown
 
 ![Image](https://cdn.pixabay.com/photo/2017/06/10/07/21/chat-2389223__340.png)
 
-![Image](https://user-images.githubusercontent.com/88048130/127434889-6b59eb1d-34d5-41f1-a7c4-98d99f0e0a0e.jpg)
+
+![Image](https://user-images.githubusercontent.com/88048130/127434889-6b59eb1d-34d5-41f1-a7c4-98d99f0e0a0e.jpg){:width="200" height="300"}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
